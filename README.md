@@ -27,6 +27,6 @@
 
 ### 项目经验
 
->新浪微博：https://github.com/shijiangkai/weiboDemo，练手的微博demo，主要功能：OAuth认证登陆；展示版本新特性；微博的图文混排；发带有表情、emoji、图片的微博；仿UIPopoverController的下拉菜单。
+>新浪微博：https://github.com/shijiangkai/weiboDemo，练手的微博demo ，主要功能：OAuth认证登陆；展示版本新特性；微博的图文混排；发带有表情、emoji、图片的微博；仿UIPopoverController的下拉菜单。
 >
->Dota2英雄小百科：https://github.com/shijiangkai/TableDemo，比较简单的APP，刚开始自学的时候在B站跟着ChaosKid乱童做的。申请Dota2的API Key后，调用API或者相关WebAPI，一个tableView用来展示各英雄的简单介绍，点击cell后跳转到另一个tableView介绍对应的英雄技能和bio。
+>Dota2英雄小百科：https://github.com/shijiangkai/TableDemo ，比较简单的APP，刚开始自学的时候在B站跟着ChaosKid乱童做的。申请Dota2的API Key后，调用API或者相关WebAPI，一个tableView用来展示各英雄的简单介绍，点击cell后跳转到另一个tableView介绍对应的英雄技能和bio。
